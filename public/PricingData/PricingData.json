@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": "$20",
+    "duration": "per month",
+    "description": "Perfect for beginners who want access to essential gym equipment.",
+    "features": [
+      "Access to gym equipment",
+      "1 personal training session",
+      "Locker room access",
+      "Free water station",
+      "Basic nutrition guide"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": "$40",
+    "duration": "per month",
+    "description": "Ideal for regular gym-goers with extra training and group classes.",
+    "features": [
+      "Access to gym equipment",
+      "5 personal training sessions",
+      "Group fitness classes",
+      "Locker room + shower access",
+      "Yoga and Zumba classes",
+      "Body composition analysis"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": "$60",
+    "duration": "per month",
+    "description": "Best for fitness enthusiasts who want full access and premium benefits.",
+    "features": [
+      "Unlimited access to gym equipment",
+      "Unlimited personal training sessions",
+      "All group fitness classes",
+      "Sauna & spa access",
+      "Locker room + shower + towel service",
+      "Swimming pool access",
+      "Diet and meal planning consultation"
+    ]
+  }
+]
