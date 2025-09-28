@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "class": "10",
+        "marks": {
+            "math": 85,
+            "science": 78,
+            "english": 92
+        }
+    },
+    {
+        "id": 2,
+        "name": "Brian Smith",
+        "class": "10",
+        "marks": {
+            "math": 74,
+            "science": 81,
+            "english": 69
+        }
+    },
+    {
+        "id": 3,
+        "name": "Catherine Lee",
+        "class": "10",
+        "marks": {
+            "math": 91,
+            "science": 88,
+            "english": 95
+        }
+    },
+    {
+        "id": 4,
+        "name": "David Brown",
+        "class": "10",
+        "marks": {
+            "math": 67,
+            "science": 72,
+            "english": 70
+        }
+    },
+    {
+        "id": 5,
+        "name": "Emily Davis",
+        "class": "10",
+        "marks": {
+            "math": 88,
+            "science": 90,
+            "english": 85
+        }
+    },
+    {
+        "id": 6,
+        "name": "Frank Wilson",
+        "class": "10",
+        "marks": {
+            "math": 79,
+            "science": 68,
+            "english": 74
+        }
+    },
+    {
+        "id": 7,
+        "name": "Grace Miller",
+        "class": "10",
+        "marks": {
+            "math": 95,
+            "science": 92,
+            "english": 89
+        }
+    },
+    {
+        "id": 8,
+        "name": "Henry Moore",
+        "class": "10",
+        "marks": {
+            "math": 58,
+            "science": 65,
+            "english": 60
+        }
+    },
+    {
+        "id": 9,
+        "name": "Isabella Taylor",
+        "class": "10",
+        "marks": {
+            "math": 82,
+            "science": 85,
+            "english": 88
+        }
+    },
+    {
+        "id": 10,
+        "name": "Jack Anderson",
+        "class": "10",
+        "marks": {
+            "math": 76,
+            "science": 80,
+            "english": 73
+        }
+    }
+]
